@@ -8,7 +8,7 @@ You can find me there:
   
 </p>
 
-Email me
+Email me:
 <p>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yepinietova@gmail.com&su=GitAsk&body=Hey, Ann!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?&style=for-the-badge&logo=gmail&logoColor=white" height=25 border=1></a>
 </p>
@@ -18,15 +18,13 @@ I'm an IT specialist with a programming background who recently completed a data
 
 ###### Tools: 
 - Jupyter Notebook
-- Google collab
+- Google colab
 - Tableau
-- Power BI 
-
-###### Databases: 
+- Power BI
 - MySQL
+- Python
 
 ###### Data analisys tools: 
-- Python
 - Pandas
 - Matplotlib
 - NumPy
@@ -34,7 +32,10 @@ I'm an IT specialist with a programming background who recently completed a data
 - Sklearn
 - Statsmodels
 
-Some stats
+My Tableau vizzes: 
+<p> 
+  <a href="https://public.tableau.com/app/profile/anna.yepinietova/vizzes"><img src="https://public.tableau.com/app/assets/tableau-public-logo-rgb.07774149.svg?&style=for-the-badge&logo=kaggle&logoColor=white" height=25 border=1></a>
+</p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=warmduck&theme=buefy) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=warmduck&theme=buefy)
