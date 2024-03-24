@@ -1,16 +1,17 @@
-### <h1 align="left"> Hi there, I'm Anna 😊</a> 
-### <h3 align="left">Data analyst</h3>
+### <h1 align="left">Привет, я Анна 😊</a> 
+### <h3 align="left">Дата аналитик</h3>
 
-You can find me there: 
+Меня можно найти тут: 
 <p> 
   <a href="https://www.linkedin.com/in/anna-yepinietova/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>     
   <a href="https://www.kaggle.com/warmduck"><img src="https://www.kaggle.com/static/images/site-logo.svg?&style=for-the-badge&logo=kaggle&logoColor=white" height=25 border=1></a>
 </p>
 ___
 
-I'm an IT specialist with a programming background who recently completed a data analytics course and is eager to grow in this field. I have a knack for analyzing data and using various tools, and I'm comfortable with programming languages. I'm always keen to learn new things and stay updated with the latest in tech. My goal is to apply my knowledge to help the team thrive and succeed.
+Сейчас я занимаюсь анализом данных и хочу развиваться в этой области. Всегда ищу новые способы улучшить свои навыки и следить за последними технологическими трендами. Моя цель - применять свои знания, чтобы развиваться как специалист и приносить пользу бизнесу.
+Интересуюсь как данными в целом, так и искусством визуализации данных. 
 
-###### Tools: 
+###### Инструменты: 
 - Jupyter Notebook
 - Google colab
 - Tableau
@@ -18,7 +19,7 @@ I'm an IT specialist with a programming background who recently completed a data
 - MySQL
 - Python
 
-###### Data analisys tools: 
+###### Инструменты для дата анализа: 
 - Pandas
 - Matplotlib
 - NumPy
@@ -26,12 +27,12 @@ I'm an IT specialist with a programming background who recently completed a data
 - Sklearn
 - Statsmodels
 
-###### My Tableau vizzes: 
+###### Мои визуализации на Tableau: 
 <p> 
   <a href="https://public.tableau.com/app/profile/anna.yepinietova/vizzes"><img src="https://public.tableau.com/app/assets/tableau-public-logo-rgb.07774149.svg?&style=for-the-badge&logo=kaggle&logoColor=white" height=25 border=1></a>
 </p>
 
-###### My repositories:
+###### Мои репозитории:
 <table width=100%>
   <thead align="center">
     <tr border: none;>
@@ -40,7 +41,7 @@ I'm an IT specialist with a programming background who recently completed a data
   </thead>
   <tbody>
 <tr>
-      <td><a href="https://github.com/warmduck/Yandex-Practicum"><b>Yandex-Practicum Projects</b></a></td>
+      <td><a href="https://github.com/warmduck/Yandex-Practicum"><b>Yandex-Practicum проекты</b></a></td>
 </tr>    
 <tr>
       <td><a href="https://github.com/warmduck/pet-project/tree/main/McDonald's%20review"><b>McDonald's review semanic analisys</b></a></td>
@@ -48,7 +49,7 @@ I'm an IT specialist with a programming background who recently completed a data
   </tbody>
 </table>
 
-Email me:
+Мне можно написать:
 <p>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yepinietova@gmail.com&su=GitAsk&body=Hey, Ann!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?&style=for-the-badge&logo=gmail&logoColor=white" height=25 border=1></a>
 </p>
